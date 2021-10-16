@@ -2,8 +2,8 @@
 # retail_analysis_on_databricks
 
 # Technology Used
-<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/images/databricks-logo.png?raw=true' height='100px'>
-<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/images/Apache_Spark_logo.png?raw=true' height='100px'>
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/databricks-logo.png?raw=true' height='100px'>
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/Apache_Spark_logo.png?raw=true' height='100px'>
 
 
 

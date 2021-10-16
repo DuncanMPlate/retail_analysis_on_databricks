@@ -34,17 +34,24 @@ This project is developed with (databricks)[https://databricks.com/] and (Apache
 * List the products with the highest level of discount in descending order.
 
 # Observed Northwind ERD 
-<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/databricks-logo.jpg?raw=true?raw=true' height='100px'>
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/ERD.png?raw=true' height='100px'>
 after we read in the csv files, we analysed the ERD and observed how the data was connected. Orders felt to be a keystone table, with it's joinings connecting the rest of the database to itself. 
 
 # Analysis Performed
 
-Using aggregation on the orders table we identified that there have been 830 orders placed
+* Using aggregation on the orders table we identified that there have been 830 orders placed
 
-Germany and the US have the most orders shipped 
+* Germany and the US have the most orders shipped 
 <img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/orders_by_country.png?raw=true' height='100px'>
 
+* Austria, Ireland, USA, Germany, and Sweden are the countries with the heaviest orders 
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/freight_by_country.png?raw=true' height='100px'>
 
+* The top 10 companies placing orders and their contact information can be viewed here 
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/companies_by_orders.png?raw=true' height='100px'>
+
+* Customers by total spending 
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/total_spending_by_companies.png?raw=true' height='100px'>
 
 # Data Attribution
 Data Used in This Analysis is Provided by 2U. You can acquire the data using below links: 

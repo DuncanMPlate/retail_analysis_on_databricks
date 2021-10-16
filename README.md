@@ -42,16 +42,16 @@ after we read in the csv files, we analysed the ERD and observed how the data wa
 * Using aggregation on the orders table we identified that there have been 830 orders placed
 
 * Germany and the US have the most orders shipped 
-<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/orders_by_country.png?raw=true' height='100px'>
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/orders_by_country.png?raw=true' height='200px'>
 
 * Austria, Ireland, USA, Germany, and Sweden are the countries with the heaviest orders 
-<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/freight_by_country.png?raw=true' height='100px'>
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/freight_by_country.png?raw=true' height='200px'>
 
 * The top 10 companies placing orders and their contact information can be viewed here 
-<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/companies_by_orders.png?raw=true' height='100px'>
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/companies_by_orders.png?raw=true' height='200px'>
 
 * Customers by total spending 
-<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/total_spending_by_companies.png?raw=true' height='100px'>
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/total_spending_by_companies.png?raw=true' height='200px'>
 
 # Data Attribution
 Data Used in This Analysis is Provided by 2U. You can acquire the data using below links: 

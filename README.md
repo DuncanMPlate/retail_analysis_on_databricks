@@ -51,7 +51,7 @@ after we read in the csv files, we analysed the ERD and observed how the data wa
 <img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/companies_by_orders.png?raw=true' height='200px'>
 
 * Customers by total spending 
-<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/total_spending_by_companies.png?raw=true' height='200px'>
+<img src='https://github.com/DuncanMPlate/retail_analysis_on_databricks/blob/main/total_spending_by_company.png?raw=true' height='200px'>
 
 # Data Attribution
 Data Used in This Analysis is Provided by 2U. You can acquire the data using below links: 
